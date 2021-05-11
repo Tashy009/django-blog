@@ -13,3 +13,8 @@ https://tashyblog.herokuapp.com
 
 LINK TO LOG IN
 https://tashyblog.herokuapp.com/login
+
+
+![Screenshot (108)](https://user-images.githubusercontent.com/52822161/117814383-23a9d480-b25c-11eb-8769-6c4470d534fd.png)
+![Screenshot (109)](https://user-images.githubusercontent.com/52822161/117814421-315f5a00-b25c-11eb-9752-bff90eb4c76e.png)
+![Screenshot (110)](https://user-images.githubusercontent.com/52822161/117814437-358b7780-b25c-11eb-825b-7e76d5946e63.png)
